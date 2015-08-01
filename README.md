@@ -4,7 +4,7 @@
 Android Material view and progress for music player.
 
 # Screen 
-<img src="https://raw.githubusercontent.com/iammert/MusicPlayerView/master/art/art.gif"/>
+<img src="https://github.com/aminghabi/Material_MusicPlayerView/blob/master/art/MaterialMusicPlayer.png"/>
 
 # Usage 
 
