@@ -17,7 +17,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         mpv = (MaterialMusicPlayerView) findViewById(R.id.mpv);
-        mpv.setCoverURL("http://i51.servimg.com/u/f51/09/01/77/84/pochet10.gif");
+        mpv.setCoverURL("http://i.ytimg.com/vi/y7HvUEPjbzU/hqdefault.jpg");
 
         mpv.setOnClickListener(new View.OnClickListener() {
             @Override
