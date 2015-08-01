@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MusicPlayerProgressView</string>
+    <string name="app_name">Material_MusicPlayerView</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
