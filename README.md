@@ -13,7 +13,7 @@ our player view.
 
 
 ```java
-mpv = (MusicPlayerView) findViewById(R.id.mpv);
+mpv = (MaterialMusicPlayerView) findViewById(R.id.mpv);
 ```  
 
 ```buttonColor```  play/pause button background.
@@ -124,7 +124,7 @@ It will be available on maven repo soon.
 
 # Design Owner
 
-[Design](https://dribbble.com/shots/2133878-Music-animations-part4-share?list=users&offset=12?list=users) is created by [Xiang lili] (https://twitter.com/xiang_lili) 
+[Design](https://dribbble.com/shots/2133878-Music-animations-part4-share?list=users&offset=12?list=users) is created by [Amin Ghabi] (https://www.facebook.com/amin.duferme)
 
 License
 --------
