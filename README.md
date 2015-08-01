@@ -98,7 +98,7 @@ mpv.setProgressVisibility(false);
 ```
 
 # Import
-Project build.gradle
+ build.gradle
 
 ```
 repositories {
