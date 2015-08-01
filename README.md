@@ -97,27 +97,6 @@ If you have live player then you don't have progress. You can also disable progr
 mpv.setProgressVisibility(false);
 ```
 
-# Import
- build.gradle
-
-```
-repositories {
-    maven {
-        url "https://jitpack.io"
-    }
-}
-```
-
-Module build.gradle
-```
-dependencies {
-	compile 'com.github.iammert:MusicPlayerView:dc5f9ad3bc'
-}
-```
-
-It will be available on maven repo soon.
-
-
 # Libraries Used
 
 [Picasso by Square](http://square.github.io/picasso/)
